@@ -1,12 +1,6 @@
 CodeIgniter HMVC Modules
 ========================
 
-[![Latest Stable Version](https://poser.pugx.org/satoripophq/codeigniter-hmvc-modules/v/stable)](https://packagist.org/packages/satoripophq/codeigniter-hmvc-modules)
-[![Total Downloads](https://poser.pugx.org/satoripophq/codeigniter-hmvc-modules/downloads)](https://packagist.org/packages/satoripophq/codeigniter-hmvc-modules)
-[![Latest Unstable Version](https://poser.pugx.org/satoripophq/codeigniter-hmvc-modules/v/unstable)](https://packagist.org/packages/satoripophq/codeigniter-hmvc-modules)
-[![License](https://poser.pugx.org/satoripophq/codeigniter-hmvc-modules/license)](https://packagist.org/packages/satoripophq/codeigniter-hmvc-modules)
-
-
 This extension for CodeIgniter enables the use of the Hierarchical Model View Controller(HMVC) pattern and makes your application modular. This allows easy distribution of independent components (MVC) in a single directory across other CodeIgniter applications. All modules are grouped in their own folder and can have their own controller, model, view, library, config, helper and language files.
 
 Installation
